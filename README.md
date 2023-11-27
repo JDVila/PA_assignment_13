@@ -11,3 +11,7 @@ This repository includes the following files required for this submission:
 * `pca.joblib`: the joblib file for this project
 * `dash_prediction_screenshot.png`: the screenshot of the Dash page for this project
 * `jose_vila_assignment_13.ipynb`: My Jupyter Notebook file
+
+### Screenshot:
+
+![image](dash_prediction_screenshot.png)
